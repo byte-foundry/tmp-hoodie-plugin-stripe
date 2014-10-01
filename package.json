@@ -1,0 +1,22 @@
+{
+  "name": "hoodie-plugin-stripe",
+  "version": "0.0.0",
+  "description": "plugin for stripe",
+  "dependencies": {},
+  "main": "worker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/byte-foundry"
+  },
+  "author": {
+    "name": "byte-foundry"
+  },
+  "license": "ISC",
+  "readme": "ERROR: No README data found!",
+  "_id": "hoodie-plugin-stripe@0.0.0",
+  "_shasum": "8a04ca5b528434f9af1e88bef20e690eb7173631",
+  "_from": "hoodie-plugin-stripe@"
+}
