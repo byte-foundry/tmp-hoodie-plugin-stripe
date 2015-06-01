@@ -16,7 +16,12 @@ Hoodie.extend(function(hoodie) {
 			retrieveSubscription: true,
 			cancelSubscription: true,
 			listSubscriptions: true
-
+		},
+		cards: {
+			create: true,
+			remove: true,
+			retrieve: true,
+			update: true
 		}
 	};
 
